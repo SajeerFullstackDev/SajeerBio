@@ -36,7 +36,7 @@
 
 
 </p>
-<div size='20px'> My name is Sajeer k and i am a Full Stack Web Developer</div>
+<div size='50px'> My name is Sajeer k and i am a Full Stack Web Developer</div>
 
                                 
                                
