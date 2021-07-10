@@ -43,45 +43,46 @@
                                
  
   <div class="spinner-grow text-primary"></div>
+  <div class="spinner-border text-muted"></div>
   <div class="spinner-grow text-success"></div>
+  <div class="spinner-border text-primary"></div>
   <div class="spinner-grow text-info"></div>
+  <div class="spinner-border text-success"></div>
   <div class="spinner-grow text-warning"></div>
-  <div class="spinner-grow text-danger"></div>
-  <div class="spinner-grow text-secondary"></div>
-  <div class="spinner-grow text-light"></div>
-   <div class="spinner-grow text-muted"></div>
-  <div class="spinner-grow text-primary"></div>
-  <div class="spinner-grow text-success"></div>
-  <div class="spinner-grow text-info"></div>
-  <div class="spinner-grow text-warning"></div>
-  <div class="spinner-grow text-danger"></div>
-  <div class="spinner-grow text-secondary"></div>
-  <div class="spinner-grow text-light"></div>
-   <div class="spinner-grow text-muted"></div>
-  <div class="spinner-grow text-primary"></div>
-  <div class="spinner-grow text-success"></div>
-  <div class="spinner-grow text-info"></div>
-  <div class="spinner-grow text-warning"></div>
-  <div class="spinner-grow text-danger"></div>
-  <div class="spinner-grow text-secondary"></div>
-    <div class="spinner-grow text-success"></div>
-  <div class="spinner-grow text-info"></div>
-  <div class="spinner-grow text-warning"></div>
-  <div class="spinner-grow text-danger"></div>
-  <div class="spinner-grow text-secondary"></div>
-<!--   <div class="spinner-grow text-light"></div> -->
-   
-<div class="spinner-border text-muted"></div>
-<div class="spinner-border text-primary"></div>
-<div class="spinner-border text-success"></div>
 <div class="spinner-border text-info"></div>
-<div class="spinner-border text-warning"></div>
-<div class="spinner-border text-danger"></div>
+  <div class="spinner-grow text-danger"></div>
+  <div class="spinner-border text-warning"></div>
+  <div class="spinner-grow text-secondary"></div>
+  <div class="spinner-border text-danger"></div>
+  <div class="spinner-grow text-light"></div>
 <div class="spinner-border text-secondary"></div>
+   <div class="spinner-grow text-muted"></div>
 <div class="spinner-border text-dark"></div>
+  <div class="spinner-grow text-primary"></div>
 <div class="spinner-border text-light"></div>
-
+  <div class="spinner-grow text-success"></div>
   
+<!--   <div class="spinner-grow text-info"></div>
+  
+  <div class="spinner-grow text-warning"></div>
+  
+  <div class="spinner-grow text-danger"></div>
+  
+  <div class="spinner-grow text-secondary"></div>
+  
+  <div class="spinner-grow text-light"></div>
+  
+   <div class="spinner-grow text-muted"></div>
+   -->
+  
+  
+  
+  
+
+
+
+
+
   
   
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
