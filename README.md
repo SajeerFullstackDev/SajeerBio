@@ -16,8 +16,8 @@
 <body>
   
 
-<!-- <div class="container p-3 my-3 bg-dark text-white">
-   -->
+<div class="container p-3 my-3 bg-dark text-white">
+  
 
 <title>Hy Man Welcome To Sajeer World Of Web</title>
 
@@ -75,7 +75,7 @@
   <div class="spinner-grow text-secondary"></div>
   <div class="spinner-grow text-light"></div>
    <div class="spinner-grow text-muted"></div>
-  <div class="spinner-grow text-primary"></div>
+
 
 
   
@@ -84,8 +84,8 @@
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-
+  </div>
+  
 - 🔭 I’m currently working on  https://inventoryportal.com/ && https://appum.in/ && https://qals.vaas.tech/
 
 - 🌱 I’m currently learning React js 
