@@ -42,7 +42,7 @@
 
                                 
  
-  <div class="spinner-grow text-primary">L</div>
+  <div class="spinner-grow text-primary"><h1>d</h1></div>
   <div class="spinner-grow text-success"></div>
   <div class="spinner-grow text-info"></div>
   <div class="spinner-grow text-warning"></div>
