@@ -5,7 +5,6 @@
 <h1> Hello Guys...! Thank You for taking the time to view my GitHub Profile :smile: <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rahulbanerjee26.rahulbanerjee26)
 
 </p>
 <div size='20px'> My name is Sajeer k and i am a Software Engineer
