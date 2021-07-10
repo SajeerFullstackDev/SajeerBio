@@ -87,6 +87,7 @@
   <div class="spinner-border text-success"></div>
   <div class="spinner-grow text-warning"></div>
 <div class="spinner-border text-info"></div>
+    <div class="spinner-grow text-warning"></div>
 
 <h1> Hy Man...! Thanks for taking the time to view my Profile <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
