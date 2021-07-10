@@ -86,7 +86,6 @@ Git Master
 
 .It’s not a bug – it’s an undocumented feature.
 .Without requirements or design, programming is the art of adding bugs to an empty text file.
-
 <br>
 
 <!-- </div> -->
