@@ -12,7 +12,7 @@
 <body>
   
 
-<div class="container p-3 my-3 bg-dark text-white">
+<div class="container p-3 my-3 bg-white text-white">
   
 
 <title>Hy Man Welcome To Sajeer World Of Web</title>
