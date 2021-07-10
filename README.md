@@ -155,4 +155,5 @@ Git Master
     
 <div class="container p-3 my-3 bg-dark text-white">
   <h6>Developed By SAJEER.k</h6>
+   <h6>Email: sajeerk000@gmail.com</h6>
   </div>
