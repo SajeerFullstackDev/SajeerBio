@@ -45,7 +45,7 @@
 <div size='20px'> My name is Sajeer k and i am a Full Stack Web Developer</div>
 
                                       
- <div class="spinner-grow text-muted"></div>
+<!--  <div class="spinner-grow text-muted"></div>
   <div class="spinner-grow text-primary"></div>
   <div class="spinner-grow text-success"></div>
   <div class="spinner-grow text-info"></div>
@@ -74,7 +74,7 @@
   <div class="spinner-grow text-danger"></div>
   <div class="spinner-grow text-secondary"></div>
   <div class="spinner-grow text-light"></div>
-   <div class="spinner-grow text-muted"></div>
+   <div class="spinner-grow text-muted"></div> -->
 
 
 
