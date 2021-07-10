@@ -26,7 +26,36 @@
   
 <div class="container p-3 my-3 bg-dark text-white">
 
+                              
  
+  <div class="spinner-grow text-primary"></div>
+  <div class="spinner-border text-muted"></div>
+  <div class="spinner-grow text-success"></div>
+  <div class="spinner-border text-primary"></div>
+  <div class="spinner-grow text-info"></div>
+  <div class="spinner-border text-success"></div>
+  <div class="spinner-grow text-warning"></div>
+<div class="spinner-border text-info"></div>
+  <div class="spinner-grow text-danger"></div>
+  <div class="spinner-border text-warning"></div>
+  <div class="spinner-grow text-secondary"></div>
+  <div class="spinner-border text-danger"></div>
+  <div class="spinner-grow text-light"></div>
+<div class="spinner-border text-secondary"></div>
+   <div class="spinner-grow text-muted"></div>
+  <div class="spinner-border text-muted"></div>
+  <div class="spinner-grow text-primary"></div>
+<div class="spinner-border text-light"></div>
+  <div class="spinner-grow text-success"></div>
+   <div class="spinner-grow text-primary"></div>
+  <div class="spinner-border text-muted"></div>
+  <div class="spinner-grow text-success"></div>
+  <div class="spinner-border text-primary"></div>
+  <div class="spinner-grow text-info"></div>
+  <div class="spinner-border text-success"></div>
+  <div class="spinner-grow text-warning"></div>
+<div class="spinner-border text-info"></div>
+
 <div align="center">
 <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
 </div>
