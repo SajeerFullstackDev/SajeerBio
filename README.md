@@ -43,7 +43,7 @@
 
                                 
  
-  <div class="spinner-grow text-primary"></div>
+  <div class="spinner-grow text-primary">m</div>
   <div class="spinner-grow text-success"></div>
   <div class="spinner-grow text-info"></div>
   <div class="spinner-grow text-warning"></div>
