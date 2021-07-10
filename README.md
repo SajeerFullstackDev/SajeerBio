@@ -42,22 +42,22 @@
                                 
                                
  
-  <div class="spinner-grow text-primary"><h6>W</h6></div>
-  <div class="spinner-grow text-success"><h6>E</h6</div>
-  <div class="spinner-grow text-info"><h6>L</h6</div>
-  <div class="spinner-grow text-warning"><h6>C</h6</div>
-  <div class="spinner-grow text-danger"><h6>O</h6</div>
-  <div class="spinner-grow text-secondary"><h6>M</h6</div>
-  <div class="spinner-grow text-light"><h6>E</h6</div>
+  <div class="spinner-grow text-primary"></div>
+  <div class="spinner-grow text-success"></div>
+  <div class="spinner-grow text-info"></div>
+  <div class="spinner-grow text-warning"></div>
+  <div class="spinner-grow text-danger"></div>
+  <div class="spinner-grow text-secondary"></div>
+  <div class="spinner-grow text-light"></div>
    <div class="spinner-grow text-muted"></div>
   <div class="spinner-grow text-primary"></div>
-  <div class="spinner-grow text-success"><h6>G</h6></div>
-  <div class="spinner-grow text-info"><h6>U</h6></div>
-  <div class="spinner-grow text-warning"><h6>Y</h6></div>
-  <div class="spinner-grow text-danger"><h6>S</h6></div>
-  <div class="spinner-grow text-secondary"><h6>.</h6></div>
-  <div class="spinner-grow text-light"><h6>.</h6></div>
-   <div class="spinner-grow text-muted"><h6>.</h6></div>
+  <div class="spinner-grow text-success"></div>
+  <div class="spinner-grow text-info"></div>
+  <div class="spinner-grow text-warning"></div>
+  <div class="spinner-grow text-danger"></div>
+  <div class="spinner-grow text-secondary"></div>
+  <div class="spinner-grow text-light"></div>
+   <div class="spinner-grow text-muted"></div>
   <div class="spinner-grow text-primary"></div>
   <div class="spinner-grow text-success"></div>
   <div class="spinner-grow text-info"></div>
