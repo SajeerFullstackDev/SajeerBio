@@ -28,10 +28,9 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </head>
 <body>
-  </div>
+  
 <div class="container p-3 my-3 bg-dark text-white">
 
-  </div>
  
 <div align="center">
 <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
@@ -84,6 +83,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+  </div>
   
 - 🔭 I’m currently working on  https://inventoryportal.com/ && https://appum.in/ && https://qals.vaas.tech/
 
