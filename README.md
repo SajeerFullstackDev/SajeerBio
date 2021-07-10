@@ -13,7 +13,7 @@
   
 
 
-<div class="container p-3 my-3 bg-primary text-white">
+<div class="container p-3 my-3 bg-dark text-white">
   
 
 
@@ -44,7 +44,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on <href= https://inventoryportal.com/> && https://appum.in/ && https://qals.vaas.tech/
+- 🔭 I’m currently working on https://inventoryportal.com/ && https://appum.in/ && https://qals.vaas.tech/
 
 - 🌱 I’m currently learning React js 
 
