@@ -1,8 +1,7 @@
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Bootstrap Example</title>
+  <title>Hy Man Welcome To Sajeer World Of Web</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
@@ -45,7 +44,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on https://inventoryportal.com/ && https://appum.in/ && https://qals.vaas.tech/
+- 🔭 I’m currently working on <href= https://inventoryportal.com/> && https://appum.in/ && https://qals.vaas.tech/
 
 - 🌱 I’m currently learning React js 
 
