@@ -41,8 +41,8 @@
 </p>
 <div size='20px'> My name is Sajeer k and i am a Full Stack Web Developer</div>
 
-          &nbsp&nbsp                            
- <div class="spinner-grow text-muted"></div>
+                                
+ <div></div>
   <div class="spinner-grow text-primary"></div>
   <div class="spinner-grow text-success"></div>
   <div class="spinner-grow text-info"></div>
