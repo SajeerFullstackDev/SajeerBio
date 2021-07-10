@@ -10,7 +10,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
- 
 <title>Hy Man Welcome To Sajeer World Of Web</title>
 
 <html>
