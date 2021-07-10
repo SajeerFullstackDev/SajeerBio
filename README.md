@@ -16,8 +16,8 @@
 <body>
   
 
-<div class="container p-3 my-3 bg-dark text-white">
-  
+<!-- <div class="container p-3 my-3 bg-dark text-white">
+   -->
 
 <title>Hy Man Welcome To Sajeer World Of Web</title>
 
@@ -42,9 +42,8 @@
 
 
 </p>
-<div size='20px'> My name is Sajeer k and i am a Full Stack Web Developer
-</div>
-</div>
+<div size='20px'> My name is Sajeer k and i am a Full Stack Web Developer</div>
+
                                       
  <div class="spinner-grow text-muted"></div>
   <div class="spinner-grow text-primary"></div>
@@ -138,12 +137,3 @@ Git Master
 .It’s not a bug – it’s an undocumented feature.
 .Without requirements or design, programming is the art of adding bugs to an empty text file.
 <br>
-
-
-  
-  
-  
-
-
-  
-  
