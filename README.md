@@ -13,7 +13,6 @@
 <body>
   
  
-
 <title>Hy Man Welcome To Sajeer World Of Web</title>
 
 <html>
@@ -44,7 +43,7 @@
                                 
  
   <div class="spinner-grow text-primary">L</div>
-  <div class="spinner-grow text-success">O</div>
+  <div class="spinner-grow text-success"></div>
   <div class="spinner-grow text-info"></div>
   <div class="spinner-grow text-warning"></div>
   <div class="spinner-grow text-danger"></div>
