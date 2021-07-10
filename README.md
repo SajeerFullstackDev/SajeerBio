@@ -1,7 +1,7 @@
 
 <html lang="en">
 <head>
-  <title>Hy Man Welcome To Sajeer World Of Web</title>
+  
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
@@ -16,13 +16,7 @@
 <div class="container p-3 my-3 bg-dark text-white">
   
 
-
-
-
-
-
-
-
+<title>Hy Man Welcome To Sajeer World Of Web</title>
 
 
 
@@ -83,12 +77,12 @@
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
-![Metrics](https://metrics.lecoq.io/rahulbanerjee26?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+Git Master
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
-
+.It’s not a bug – it’s an undocumented feature.
+.Without requirements or design, programming is the art of adding bugs to an empty text file.
 
 <br>
 </body>
