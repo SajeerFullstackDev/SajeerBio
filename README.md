@@ -47,7 +47,18 @@
 </p>
 <div size='20px'> My name is Sajeer k and i am a Full Stack Web Developer
 </div>
-
+<div class="container">
+                                      
+ <div class="spinner-grow text-muted"></div>
+  <div class="spinner-grow text-primary"></div>
+  <div class="spinner-grow text-success"></div>
+  <div class="spinner-grow text-info"></div>
+  <div class="spinner-grow text-warning"></div>
+  <div class="spinner-grow text-danger"></div>
+  <div class="spinner-grow text-secondary"></div>
+  <div class="spinner-grow text-dark"></div>
+  <div class="spinner-grow text-light"></div>
+</div>
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 </div>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -112,24 +123,7 @@ Git Master
   
   
   
-  
-  //sajeer
-  
 
 
-<div class="container">
-                                      
-  <div class="spinner-grow text-muted"></div>
-</div>
-
-</body>
-</html>
-
-  
-  
-  
-  
-  
-  
   
   
