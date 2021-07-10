@@ -15,9 +15,7 @@
 </head>
 <body>
   
-
-<div class="container p-3 my-3 bg-dark text-white">
-  
+ 
 
 <title>Hy Man Welcome To Sajeer World Of Web</title>
 
@@ -32,7 +30,10 @@
 </head>
 <body>
   </div>
+<div class="container p-3 my-3 bg-dark text-white">
 
+  </div>
+ 
 <div align="center">
 <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
 </div>
@@ -74,8 +75,7 @@
   <div class="spinner-grow text-danger"></div>
   <div class="spinner-grow text-secondary"></div>
   <div class="spinner-grow text-light"></div>
-   <div class="spinner-grow text-muted"></div>
-
+   
 
 
   
