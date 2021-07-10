@@ -24,7 +24,7 @@
 <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
 </div>
 
-<h1> Hello Guys...! Thank You for taking the time to view my GitHub Profile :smile: <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hy Man Welcome To Sajeer World Of Web.And Thank You for taking the time to view my Profile :smile: <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 
@@ -85,6 +85,5 @@ Git Master
 .Without requirements or design, programming is the art of adding bugs to an empty text file.
 
 <br>
-</body>
-</html>
+
 </div>
