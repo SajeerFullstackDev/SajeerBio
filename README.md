@@ -157,5 +157,5 @@ Git Master
     
 <div class="container p-3 my-3 bg-dark text-white">
   <h6>Developed By SAJEER.k</h6>
-   <h6><i class="bi bi-envelope"></i> sajeerk000@gmail.com</h6>
+   <h6><i class="bi bi-envelope"></i>: sajeerk000@gmail.com</h6>
   </div>
